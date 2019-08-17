@@ -1,2 +1,2 @@
 # hello-world
-Learning to use GitHub for Phonegap Build
+My Name is rick. I am learning to use GitHub
